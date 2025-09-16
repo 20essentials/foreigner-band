@@ -1,0 +1,23 @@
+export const nameBand = 'FOREIGNER';
+export const nameSongs = [
+	"I WANT TO KNOW WHAT LOVE IS", /*1*/
+	"WAITING FOR A GIRL LIKE YOU", /*2*/
+	"THAT WAS YESTERDAY", /*3*/
+	"URGENT", /*4*/
+	"COLD AS ICE", /*5*/
+	"I DON'T WANT TO LIVE WITHOUT YOU", /*6*/
+	"HEAD GAMES", /*7*/
+	"HOT BLOODED", /*8*/
+	"SAY YOU WILL", /*9*/
+	"DOUBLE VISION", /*10*/
+	"I WANT TO KNOW - REMASTER", /*11*/
+	"FEELS LIKE THE FIRST TIME", /*12*/
+	"THAT'S ALL RIGHT", /*13*/
+	"UNTIL THE END OF TIME", /*14*/
+	"LONG, LONG WAY FROM HOME", /*15*/
+	"TOOTH AND NAIL", /*16*/
+	"DOUBLE VISION", /*17*/
+	"HEADKNOCKER", /*18*/
+	"JUKE BOX HERO", /*19*/
+	"THE FLAME STILL BURNS", /*20*/
+]
